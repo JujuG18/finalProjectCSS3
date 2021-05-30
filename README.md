@@ -5,6 +5,7 @@ The objectives of my final project were:
 - Create a style sheet and link it to the html files, without changing the html;
 - Style the sheet using the properties I learnt in this online course.  There was a particular emphasis on pseudo-elements and pseudo-classes. For instance, í had to style the first element of each row to be left-aligned.  The rest should be centered.  
 
+
 Here were the steps to style the following:
 
 - The table should be styled using at least four  properties;
@@ -13,6 +14,7 @@ Here were the steps to style the following:
 - Set the opacity of the table rows to a value between .6 and .8;
 - Change the opacity of a row when it is hovered over;
 - The table elements <td> should be styled using at least four  properties. 
+  
   
   The images below were the examples to be followed. 
   
