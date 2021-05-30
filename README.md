@@ -1,4 +1,4 @@
-# Introductio to CSS3 in the University of Michigan
+# Introduction to CSS3 in the University of Michigan
 
 The objectives of my final project were: 
 
